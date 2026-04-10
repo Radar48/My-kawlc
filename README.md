@@ -15,7 +15,7 @@ A cute and fully functional Android calculator app built using **Kotlin** and **
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshot
 
 ```
 https://github.com/Radar48/My-kawlc/blob/main/Screenshot%202026-04-10%20110939.png
