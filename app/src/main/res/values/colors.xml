@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Backgrounds -->
+<color name="pinkBackground">#FFE4E6</color>
+<color name="white">#FFFFFF</color>
+<color name="black">#000000</color>
+
+<!-- Main theme colors -->
+<color name="hot_pink">#FF69B4</color>
+<color name="light_pink">#FFB6C1</color>
+<color name="pastel_blue">#A3C4F3</color>
+<color name="pastel_yellow">#F9E79F</color>
+
+<!-- Kawaii button colors -->
+<color name="numberButton">#FFB6C1</color>
+<color name="addButton">#FFCCE5</color>
+<color name="subtractButton">#D7BDE2</color>
+<color name="multiplyButton">#F5B7B1</color>
+<color name="divideButton">#A3E4D7</color>
+<color name="equalsButton">#F9E79F</color>
+<color name="clearButton">#F1948A</color>
+</resources>
